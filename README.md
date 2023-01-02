@@ -2,13 +2,13 @@
 </br>
 </br>
 
-# 🚀 Rocketseat - Explorer Stage #03 - Mobile-First and Animation
+# 🚀 Rocketseat - Explorer Stage #03 - Space Cream - Grid and Animation
 
 </br>
 
 
 <p align="center">
-Projeto desenvolvido como parte dos desafios propostos no Stage #03 - Formulários.
+Projeto desenvolvido como parte dos desafios propostos no Stage #03 - Space Cream-Desktop
 </p>
 
 <p align="center">
@@ -32,18 +32,21 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 # 💻 Projeto
 
-A ideia aqui era a criação de um layout para Mobile visando a implementação e configuração desse mesmo layout para a versão Desktop. Para isso, deveriam ser considerados os seguintes fatores:
+A ideia agora é criar o Space Cream na versão Desktop!
 
-* Mobile First;
+* Mobile First - base desafio anterior;
 * Unidades de medida flexíveis;
 * Variáveis;
-* Animação simples.
+* Grid;
+* Animação e transições;
+* Inserção de um footer na versão desktop, inexistente na versão Mobile;
+* Media queries.
 
 </br>
 
 # 🔖 Layout
 
-![preview](/github/preview.png)
+![preview](/github/previewdesktop.png)
 
 
 Você pode visualizar o layout completo [clicando aqui](https://www.figma.com/file/Z8MWHA00GSsRDJjGjrtl8p/Stage-03---Mobile-First-(Copy)?node-id=0%3A1&t=LctupSSTWmPhFkSP-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.

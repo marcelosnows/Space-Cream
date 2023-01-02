@@ -43,7 +43,7 @@ A ideia aqui era a criação de um layout para Mobile visando a implementação 
 
 # 🔖 Layout
 
-![preview](/github/MobileFirst.mp4)
+![preview](/github/preview.pgn.PNG)
 
 
 Você pode visualizar o layout completo [clicando aqui](https://www.figma.com/file/Z8MWHA00GSsRDJjGjrtl8p/Stage-03---Mobile-First-(Copy)?node-id=0%3A1&t=LctupSSTWmPhFkSP-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.

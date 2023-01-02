@@ -8,7 +8,7 @@
 
 
 <p align="center">
-Projeto desenvolvido como parte dos desafios propostos no Stage #03 - Formulários.
+Projeto desenvolvido como parte dos desafios propostos no Stage #03 - Space Cream
 </p>
 
 <p align="center">

@@ -49,7 +49,7 @@ A ideia agora é criar o Space Cream na versão Desktop!
 ![preview](./preview/preview.png)
 
 
-Você pode visualizar o layout completo [clicando aqui](https://www.figma.com/file/Z8MWHA00GSsRDJjGjrtl8p/Stage-03---Mobile-First-(Copy)?node-id=0%3A1&t=LctupSSTWmPhFkSP-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout completo [clicando aqui](https://www.figma.com/file/EEZ4oOFhtGwDjF6A7o3nKR/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A1&t=9GFJIJ8TnTClDlMC-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 </br>
 
